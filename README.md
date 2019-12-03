@@ -1,7 +1,5 @@
 # IDD Final - Interactive Nightstand
 
-**A documentation by Johnway Yih and Samson Schirmer**
-
 ## The Project
 We are creating an interactive LED nightstand. The goal is to have 4 distinct LED strips inlayed in the surface of the table top which can be operated by a capactive touch sensing interaction.
 
