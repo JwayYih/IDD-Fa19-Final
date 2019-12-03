@@ -38,7 +38,7 @@ Used the Festool track saw to cut out the legs
 ![Festool Track Saw](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Festool%20Track%20Saw.jpg)
 
 All components cut out
-![All Components](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Tabletop%20SVG%20File.PNG)
+![All Components](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/All%20Components.jpg)
 
 Used the Shaper Origin and a tenon jig to create the mating tenons on the legs
 
