@@ -10,10 +10,35 @@ SolidWorks part was converted to an SVG file for Shaper Origin to recognize
 
 ![Tabletop SVG File](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Tabletop%20SVG%20File.PNG)
 
+Origin uses computer vision to create and augmented reality workspace. It uses a patterned tape which is placed on the work surface to register its location. Then with its precision motors it precisely cuts along the uploaded image.
+
 Used the Shaper Origin handheld CNC to cut out the table top
+
 [Cuttting Out Tabletop](https://photos.app.goo.gl/qifHks3SJ6dKoCYE8)
 
-Used festool track saw to cut out the legs
+Here is the setup with the Shaper Tape
+
+![Origin Setup](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Origin%20Setup.jpg)
+
+This is the touch interface used to load and place designs as well as adjust all cut parameters (depth, inside/outside/pocket cut, offsets, etc.)
+
+![Origin Interface](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Origin%20Interface.jpg)
+
+Here are the cut outs of the top two surfaces
+
+![Origin Cut 1](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Origin%20Cut%201.jpg)
+![Origin Cut 2](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Origin%20Cut%202.jpg)
+
+Used the Festool track saw to cut out the legs
+
+![Festool Track Saw](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Festool%20Track%20Saw.jpg)
+
+All components cut out
+![All Components](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Tabletop%20SVG%20File.PNG)
 
 Used the Shaper Origin and a tenon jig to create the mating tenons on the legs
+
+All the completed components in an exploded view
+
+![Exploded View](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Exploded%20View.jpg)
 
