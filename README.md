@@ -26,16 +26,16 @@ Here is the setup with the Shaper Tape
 
 This is the touch interface used to load and place designs as well as adjust all cut parameters (depth, inside/outside/pocket cut, offsets, etc.)
 
-![Origin Interface](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Origin%20Interface.jpg)
+![Origin Interface View](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Origin%20Interface%20View.jpg)
 
 Here are the cut outs of the top two surfaces
 
-![Origin Cut 1](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Origin%20Cut%201.jpg)
-![Origin Cut 2](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Origin%20Cut%202.jpg)
+![Origin Cut 1 Top](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Origin%20Cut%201%20Top.jpg)
+![Origin Cut 2 Top](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Origin%20Cut%202%20Top.jpg)
 
 Used the Festool track saw to cut out the legs
 
-![Festool Track Saw](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Festool%20Track%20Saw.jpg)
+![Festool Track Saw Cut](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Festool%20Track%20Saw%20Cut.jpg)
 
 All components cut out
 ![All Components](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/All%20Components.jpg)
