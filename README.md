@@ -1,4 +1,4 @@
-# IDD Final
+# IDD Final - Interactive Nightstand
 
 **A documentation by Johnway Yih and Samson Schirmer**
 
