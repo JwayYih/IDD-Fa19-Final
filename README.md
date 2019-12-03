@@ -1,7 +1,11 @@
-IDD Final
+# IDD Final
 
+**A documentation by Johnway Yih and Samson Schirmer**
+
+## The Project
 We are creating an interactive LED nightstand. The goal is to have 4 distinct LED strips inlayed in the surface of the table top which can be operated by a capactive touch sensing interaction.
 
+## Step 1: The Woodworking
 Designing the table in SolidWorks
 
 ![Tabletop SW](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Tabletop%20SW.PNG)
