@@ -18,7 +18,7 @@ Origin uses computer vision to create and augmented reality workspace. It uses a
 
 Used the Shaper Origin handheld CNC to cut out the table top
 
-[Cuttting Out Tabletop](https://photos.app.goo.gl/qifHks3SJ6dKoCYE8)
+[Cuttting Out Tabletop Video](https://photos.app.goo.gl/qifHks3SJ6dKoCYE8)
 
 Here is the setup with the Shaper Tape
 
