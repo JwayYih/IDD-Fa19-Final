@@ -44,3 +44,9 @@ All the completed components in an exploded view
 
 ![Exploded View](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Exploded%20View.jpg)
 
+## Step 2: The Circuit
+
+Utilized the Capacitive Sensing Library created by Paul Badger
+https://playground.arduino.cc/Main/CapacitiveSensor/
+
+## Step 3: The Assembly
