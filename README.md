@@ -49,4 +49,17 @@ All the completed components in an exploded view
 Utilized the Capacitive Sensing Library created by Paul Badger
 https://playground.arduino.cc/Main/CapacitiveSensor/
 
+Created a single cap sense sensor to turn on and off an onboard LED
+
+![Cap Sensor](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Capacitance%20Sensor.jpg)
+
+The LED strips used required a 12V external power source. Originially, we tried to power the Arduino with a laptop and the LED separately with a 12V source, but this caused some issues (lights could be turned on, but not turned off with cap sensing). We believe there may have been some inconsistencies with the ground reference. To address this we decided to run both the LED and the Arduino off the 12V source. This resolved the issue. The circuit was then repeated 4x, one for each LED strip.
+
+![Final Circuit 1](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Table%20Circuit%20Closeup.jpg)
+![Final Circuit 2](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Table%20Circuit.jpg)
+
 ## Step 3: The Assembly
+
+The table was ultimately designed to be press fit together. There is no glue holding it together.
+
+![Final Table](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Final%20Table.jpg)
