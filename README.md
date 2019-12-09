@@ -49,7 +49,7 @@ All the completed components in an exploded view
 Utilized the Capacitive Sensing Library created by Paul Badger
 https://playground.arduino.cc/Main/CapacitiveSensor/
 
-Created a single cap sense sensor to turn on and off an onboard LED
+Created a single cap sense sensor to turn on and off an onboard LED. Circuit built from a combination of [cap sensing](https://www.youtube.com/watch?v=lqg_Ze_OiiY) and [LED control] (https://www.youtube.com/watch?time_continue=152&v=5M24QUVE0iU&feature=emb_title)
 
 ![Cap Sensor](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Capacitance%20Sensor.jpg)
 
