@@ -53,7 +53,9 @@ Created a single cap sense sensor to turn on and off an onboard LED
 
 ![Cap Sensor](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Capacitance%20Sensor.jpg)
 
-The [LED strips](https://www.amazon.com/gp/product/B074N1FC56/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) we used required a 12V external power source. Originially, we tried to power the Arduino with a laptop and the LED separately with a 12V source, but this caused some issues (lights could be turned on, but not turned off with cap sensing). We believe there may have been some inconsistencies with the ground reference. To address this we decided to run both the LED and the Arduino off the 12V source. This resolved the issue. The circuit was then repeated 4x, one for each LED strip. This [code](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/CapacitiveSensorTest.ino) was used to run the circuit.
+The [LED strips](https://www.amazon.com/gp/product/B074N1FC56/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) we used required a 12V external power source, but the Arduino only outputs 5V. So we used the 5V output as a switch for an NPN transistor that would switch on and off the external 12V source to the LED.
+
+Originially, we tried to power the Arduino with a laptop and the LED separately with a 12V source, but this caused some issues (lights could be turned on, but not turned off with cap sensing). We believe there may have been some inconsistencies with the ground reference. To address this we decided to run both the LED and the Arduino off the 12V source. This resolved the issue. The circuit was then repeated 4x, one for each LED strip. This [code](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/CapacitiveSensorTest.ino) was used to run the circuit.
 
 ![Final Circuit 1](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Table%20Circuit%20Closeup.jpg)
 ![Final Circuit 2](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Table%20Circuit.jpg)
