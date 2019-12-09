@@ -57,6 +57,7 @@ The [LED strips](https://www.amazon.com/gp/product/B074N1FC56/ref=ppx_yo_dt_b_se
 
 ![Final Circuit 1](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Table%20Circuit%20Closeup.jpg)
 ![Final Circuit 2](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/Table%20Circuit.jpg)
+![Final Circuit 3](https://github.com/JwayYih/IDD-Fa19-Final/blob/master/InkedTable%20Circuit%20Closeup_LI.jpg)
 
 ## Step 3: The Assembly
 
